@@ -30,12 +30,6 @@ I would like to work in the field of cybersecurity.
 - Visual studio 
 - Linux (Debian)
 - 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact" height="150">
-</p>
 
 ---
 
