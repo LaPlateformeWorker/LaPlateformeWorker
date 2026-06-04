@@ -1,38 +1,28 @@
-<h1 align="center">Hi, 👋</h1>
-<p align="center">
-  Beginner Developer | Learning Python, HTML/CSS, CPP, JavaScript
-</p>
+# Hey, 
+
+IT student @ [La Plateforme_](https://laplateforme.io) — Marseille, France  
+Focused on **Systems & Networks Administration**
 
 ---
 
-## 🚀 About Me
-I'm a student passionate about programming and web development.  
-I love creating small projects, learning new technologies, and improving step by step.
-I would like to work in the field of cybersecurity.
+### What I work with
 
-- 🌱 I’m currently learning **Python**, **HTML/CSS**, **JavaScript** and **CPP**   
-- 🎯 Goal: build real projects and grow my developer portfolio  
-
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Languages
-- Python *(learning)*
-- HTML  
-- CSS
-- CPP *(learning)*
-- JavaScript *(learning)*  
-
-### 🔹 Tools
-- Git & GitHub  
-- VS Code
-- Visual studio 
-- Linux (Debian)
-- 
+- **Sysadmin** — Windows Server, Active Directory, GPO, PowerShell
+- **Networking** — DHCP, OSPF, EIGRP, PXE/WDS
+- **Dev** — C#, React, a bit of everything
+- **Tools** — VMware, GLPI, ServiceNav, Kali Linux
 
 ---
 
-## 📫 Contact
+### Currently
+
+- First year Bachelor Informatique
+- Looking for an **alternance** in IT / Sys & Networks
+- Building a Windows optimization tool in C#/WPF
+
+---
+
+### Contact me
+
+- LinkedIn: [Ugo Rodriguez](https://www.linkedin.com/in/ugo-rodriguez-71a2193a5/)
 - Telegram: **Kayzesozee3**
-
